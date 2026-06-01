@@ -24,6 +24,8 @@ Es una herramienta muy utilizada en la comunidad por su constante desarrollo, co
 
 ![Logo RPCS3](rpcs3.jpeg)
 
+---
+
 ## 2. Requisitos del sistema
 
 A continuación se presentan los requisitos mínimos y recomendados para ejecutar RPCS3 en PC:
@@ -35,6 +37,8 @@ A continuación se presentan los requisitos mínimos y recomendados para ejecuta
 | Memoria RAM           | 8 GB                            | 16 GB o superior                   |
 | Tarjeta gráfica       | Compatible con OpenGL           | GPU con soporte Vulkan (NVIDIA/AMD)|
 | Almacenamiento        | 20 GB libres                    | SSD con espacio suficiente         |
+
+---
 
 ## 3. Descarga del programa
 
@@ -49,7 +53,9 @@ Para instalar RPCS3 es necesario descargar tanto el emulador como el firmware of
   Descárgalo desde la página oficial de PlayStation:  
   [https://www.playstation.com/es-es/support/hardware/ps3/system-software/](https://www.playstation.com/es-es/support/hardware/ps3/system-software/)
 
-  ## 4. Instalación
+---
+
+## 4. Instalación
 
 Sigue estos pasos para instalar y preparar RPCS3 en tu PC:
 
@@ -73,10 +79,48 @@ Sigue estos pasos para instalar y preparar RPCS3 en tu PC:
 
 6. **Preparar tus juegos**  
    - Asegúrate de contar con tus propios juegos en formatos compatibles (ISO, PKG).  
-   - Instálalos desde **File → Install .pkg** o cárgalos desde **Boot Game**.
-  
-     ## 7. Conclusión
+   - Instálalos desde **File → Install .pkg** o cárgalos desde **Boot Game**.  
 
-RPCS3 es un emulador potente y en constante desarrollo que permite disfrutar juegos de PlayStation 3 en PC.  
-Su instalación y configuración son accesibles, y ofrece gran compatibilidad con títulos populares.  
+---
+
+## 5. Configuración básica
+
+Ejemplo de configuración inicial en formato JSON:
+
+## 5. Configuración básica
+
+Ejemplo de configuración inicial en formato JSON:
+
+```json
+{
+  "Idioma": "Español",
+  "Resolucion": "1080p",
+  "Backend": "Vulkan",
+  "Audio": "XAudio2"
+}
+
+6. Uso del programa
+Para utilizar RPCS3, sigue estos pasos:
+
+Abre el programa.
+
+Dirígete a la opción File → Boot Game.
+
+Selecciona el archivo del juego (formato .ISO o .PKG).
+
+Configura los controles desde el menú de configuración.
+
+Ajusta gráficos y rendimiento según tu PC.
+
+Funciones principales
+Función	Descripción
+Cargar juego	Permite abrir un juego en formato ISO/PKG
+Configuración	Ajustar gráficos, sistema y rendimiento
+Controles	Configurar teclado, mando o DualShock
+Firmware	Instalar el software oficial de PS3
+
+
+7. Conclusión
+RPCS3 es un emulador potente y en constante desarrollo que permite disfrutar juegos de PlayStation 3 en PC.
+Su instalación y configuración son accesibles, y ofrece gran compatibilidad con títulos populares.
 Gracias a su comunidad activa y soporte oficial, se ha convertido en una herramienta confiable tanto para principiantes como para usuarios avanzados.
