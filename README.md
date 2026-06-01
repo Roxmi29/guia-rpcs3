@@ -87,37 +87,6 @@ Sigue estos pasos para instalar y preparar RPCS3 en tu PC:
 
 Ejemplo de configuración inicial en formato JSON:
 
-## 5. Configuración básica
-
-Ejemplo de configuración inicial en formato JSON:
-
-```json
-{
-  "Idioma": "Español",
-  "Resolucion": "1080p",
-  "Backend": "Vulkan",
-  "Audio": "XAudio2"
-}
-
-6. Uso del programa
-Para utilizar RPCS3, sigue estos pasos:
-
-Abre el programa.
-
-Dirígete a la opción File → Boot Game.
-
-Selecciona el archivo del juego (formato .ISO o .PKG).
-
-Configura los controles desde el menú de configuración.
-
-Ajusta gráficos y rendimiento según tu PC.
-
-Funciones principales
-Función	Descripción
-Cargar juego	Permite abrir un juego en formato ISO/PKG
-Configuración	Ajustar gráficos, sistema y rendimiento
-Controles	Configurar teclado, mando o DualShock
-Firmware	Instalar el software oficial de PS3
 
 
 7. Conclusión
