@@ -1,4 +1,41 @@
-# guia-rpcs3
+# Parte 1 — Investigación y Análisis
+
+Markdown es un lenguaje de marcado ligero que permite dar formato a texto de manera sencilla.  
+Se utiliza ampliamente en documentación, repositorios de GitHub y blogs técnicos.  
+
+**Ventajas:**
+- Sintaxis simple y fácil de aprender  
+- Compatible con múltiples plataformas  
+- Ideal para documentación técnica  
+
+**Limitaciones:**
+- No tiene todas las funciones de un procesador de texto avanzado  
+- El estilo depende del renderizador (GitHub, VS Code, etc.)  
+
+**Ejemplos de sintaxis:**
+- **Título:** `# Encabezado`  
+- **Lista:** `- Elemento`  
+- **Tabla:**
+
+| Herramienta | Uso principal |
+|-------------|---------------|
+| Markdown    | Documentación |
+| Google Docs | Escritura colaborativa |
+
+---
+
+# Parte 2 — Comparación de Herramientas
+
+| Herramienta   | Ventajas                          | Desventajas                       |
+|---------------|-----------------------------------|-----------------------------------|
+| Markdown      | Ligero, rápido, ideal para código | Limitado en diseño avanzado        |
+| Google Docs   | Colaboración en tiempo real       | Requiere internet, menos técnico   |
+| Obsidian      | Organización con enlaces internos | Curva de aprendizaje inicial       |
+| Notion        | Versátil, visual y colaborativo   | Puede ser pesado en rendimiento    |
+
+---
+
+Parte 3 # guia-rpcs3
 
 # Guía de instalación del emulador RPCS3
 
@@ -117,5 +154,19 @@ Para utilizar RPCS3, sigue estos pasos:
 
 7. Conclusión
 RPCS3 es un emulador potente y en constante desarrollo que permite disfrutar juegos de PlayStation 3 en PC.
+
+# Parte 4 — Reflexión
+
+1. **¿Por qué es relevante Markdown hoy en día?**  
+   Porque es un estándar en documentación técnica y repositorios de código.  
+
+2. **¿Qué utilidad tiene en proyectos académicos y profesionales?**  
+   Facilita la creación de informes claros, reproducibles y fáciles de compartir.  
+
+3. **¿Qué ventajas ofrece frente a otras herramientas?**  
+   Su simplicidad, compatibilidad y ligereza.  
+
+4. **¿Cómo ves su futuro?**  
+   Seguirá siendo clave en entornos de desarrollo y documentación técnica.  
 Su instalación y configuración son accesibles, y ofrece gran compatibilidad con títulos populares.
 Gracias a su comunidad activa y soporte oficial, se ha convertido en una herramienta confiable tanto para principiantes como para usuarios avanzados.
